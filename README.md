@@ -1,7 +1,9 @@
 SSHManager.sh
 ==========
 
+
 SSH Connection Manager for Unix
+Based on http://reviews.cnet.com/8301-13727_7-20078003-263/create-an-automatic-ssh-server-menu-in-the-os-x-terminal/
 
 Edit hosts file in linux and add all the servers you would like to be displayed by 
 the script (/etc/hosts) following the format [ip-address] [alias] [full-hostname]:

@@ -1,4 +1,4 @@
-SSHConnect
+SSHManager.sh
 ==========
 
 SSH Connection Manager for Unix
